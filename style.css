@@ -1,0 +1,16 @@
+body {
+    background-color: gray;
+    display: grid;
+    place-items: center;
+}
+
+.becoDoNego {
+    align-items: center;
+    size: 0px;
+
+    
+}
+
+.Batman {
+    color: yellow;
+}
